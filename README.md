@@ -1,16 +1,17 @@
-## Hi there 👋
+## 兴趣爱好
+- 喜欢数码、跑步
 
-<!--
-**LianHK123/LianHK123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 学习经历
+- 在课程中学习了 `C语言` 及 `数据结构`
+- 课下了解学习了 `Java` 的使用及 `Spring` 的操作
 
-Here are some ideas to get you started:
+## 软工五问
+1. 软件开发的流程？
+2. 如何对产品进行需求分析？
+3. 软件设计的方法？
+4. 如何针对软件功能进行合理测试？
+5. 如何确定功能代码之间的耦合程度？
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 目标
+- 提高技术文档的书写能力
+- 熟悉 `GitHub` 的使用
